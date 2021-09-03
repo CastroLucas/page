@@ -1,0 +1,63 @@
+header {
+    background-color: #CCCCCC;
+    padding: 30px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.imagemDev {
+    height: 220px;
+}
+
+nav{
+    position: absolute;
+    top: 120px;
+    right: 10px;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+footer {
+	text-align: center;
+	background: #FFFFFF;
+	padding: 40px 0;
+}
+
+footer a {
+	color: #000000;
+	font-weight: bold;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+.footer_{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+.footer_work a:hover{
+    text-decoration: underline;
+    color: #C78C19;
+}
